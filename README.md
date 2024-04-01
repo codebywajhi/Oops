@@ -81,8 +81,8 @@ a:hover {
 
   <h2>Contributors</h2>
   <ul>
-    <li><a href="#">Your Name</a> (link to your profile or contact information)</li>
-  </ul>
+  <li><a href="https://www.linkedin.com/in/wajhi-qureshi-0a9727253">Wajhi ur Rehman</a> (LinkedIn Profile)</li>
+    </ul>
 
   <h2>Feedback and Contributions</h2>
   <p>If you have any feedback, suggestions, or would like to contribute to this repository, please feel free to <a href="#">open an issue</a> or <a href="#">submit a pull request</a>. Your input is highly appreciated!</p>
